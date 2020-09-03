@@ -15,7 +15,7 @@ My HP Elitebook 850 G1 spec :
 - **ETHERNET**: Intel I218-LM
 - **WIFIorBluetooth**: Intel Dual Band Wireless-N 7260AC 802.11 a/b/g/n (2 x2 ) WiFi  //  *It's not compatible, But its works with intwm.kext* 
 
-Here you can check the different models: https://support.hp.com/lv-en/document/c03961746
+Here you can check the different models: [HP Elitebook 850 G1](https://support.hp.com/id-en/document/c03963889/).
 
 ## BIOS Settings  
 ###### *Spam the F10 key*
