@@ -1,0 +1,53 @@
+
+Installer Clover r5121 (2607bd4fb) (installer library v1.1.5), 2020-09-02 12:07:17
+macOS Versi 10.15.6 (Build 19G2021)
+SELF = /Applications/Clover.app/Contents/MacOS/CloverDaemonNew
+Backup made at:
+/Users/caturmahdialfurqon/Desktop/CloverBackUp/SK hynix SH920 2.5 7MM 128GB Media/r5119_2020-09-02_12-07-09/EFI.
+Target volume: /Volumes/EFI
+BSD Name:      disk0s1
+Filesystem:    FAT16
+Is internal:   true
+Is writable:   true
+Installation type: UEFI
+
+/dev/disk0 (internal, physical):
+   #:                       TYPE NAME                    SIZE       IDENTIFIER
+   0:      GUID_partition_scheme                        *128.0 GB   disk0
+   1:                        EFI EFI                     209.7 MB   disk0s1
+   2:                 Apple_APFS Container disk1         127.8 GB   disk0s2
+
+/dev/disk1 (synthesized):
+   #:                       TYPE NAME                    SIZE       IDENTIFIER
+   0:      APFS Container Scheme -                      +127.8 GB   disk1
+                                 Physical Store disk0s2
+   1:                APFS Volume Machintosh HD - Data    78.3 GB    disk1s1
+   2:                APFS Volume Recovery                528.9 MB   disk1s3
+   3:                APFS Volume VM                      1.1 GB     disk1s4
+   4:                APFS Volume Machintosh HD           11.1 GB    disk1s5
+
+
+
+
+Installing/Updating Clover:
++ ../BOOT/BOOTX64.efi
++ ../CLOVER/CLOVERX64.efi
+
+Installing/Updating drivers:
+- ../UEFI/AptioMemoryFix.efi
+- ../UEFI/OsxAptioFixDrv.efi
++ ../UEFI/ApfsDriverLoader.efi
++ ../UEFI/OcQuirks.efi
+
+Installing/Updating tools:
++ ../tools/Shell64.efi
++ ../tools/bdmesg.efi
++ ../tools/Shell64U.efi
++ ../tools/Shell32.efi
+
+Installing/Updating docs:
++ ../doc/UEFI boot with Clover.rtf
++ ../doc/boot1f32-install.sh
++ ../doc/HowToInstallOSX.txt
++ ../doc/HowToFixDsdt.txt
++ ../doc/bcfg.txt
