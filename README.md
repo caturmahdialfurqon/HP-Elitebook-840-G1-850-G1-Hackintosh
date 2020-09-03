@@ -2,7 +2,7 @@
 
 This is a detailed macOS Catalina 10.15.6 Vanilla install guide for HP Elitebook 850 G1 , based on [RehabMan's HP guide](https://www.tonymacx86.com/threads/guide-hp-probook-elitebook-zbook-using-clover-uefi-hotpatch.261719/). [This guide](https://hackintosh.gitbook.io/-r-hackintosh-vanilla-desktop-guide/) is also really useful.
 
-##SPEC
+## SPEC
 
 My HP Elitebook 850 G1 spec :
 - **Processor**: Intel(R) Core(TM) i5-4300U CPU @ 1.90GHz (Haswell)
