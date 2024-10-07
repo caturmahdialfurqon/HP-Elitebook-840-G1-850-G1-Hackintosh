@@ -1,4 +1,40 @@
-# Hackintosh Catalina 10.15.6 on my HP Elitebook 850 G1
+# Hackintosh HP Elitebook 850 G1
+
+Previously, this hack has run Macos Catalina and Bigsur With `Clover Bootloader`.
+
+## NEW UPDATES at Mon. 7 Oct 2024
+
+## Update to MONTEREY Final With `OC 1.0.1 EFI R001`
+
+This laptop has been in the warehouse for a long time,`since 2021` 😁, I tried updating from MacOS Bigsur to Monterey with `OpenCore`, because I (a bit) forgot how to use "Clover" 🤣 hehe, I think it's better to move from "Clover" to "OpenCore" because it's easier to set up, in my opinion.
+
+## I have tested the following features for Monterey With `OC 1.0.1 EFI R001`
+
+`Monterey 12.7.4` upgrade applied without any issues. This hack is working perfectly. <br>
+With SMBIOS `MacBookPro11,4`
+
+## About This Hack
+<img src="/images/Screen Shot 2024-10-07 at 05.18.13.png" width=600>
+
+## Bluetooth, WIFI And AIRDROP
+- Both BlueTooth, WIFI Combo Works with AirportItlwm.kext v.2.3.0 <br>
+  - (BlueTooth Modified as Third Party Dongle)
+- Airdrop(Airport) Work
+- Everything Works perfectly
+  
+<img src="/images/Screen Shot 2024-10-07 at 05.12.50.png" width=600>
+
+## Perfomance
+
+The performance of this Hackbook is still reliable
+
+<img src="/images/Screen Shot 2024-10-07 at 05.22.30.png" width=600>
+
+<br>
+
+## OLD POST ABOUT Hackintosh With Catalina on 2024 
+
+🤖 I don't think there's even much to post about hackintosh on HP elitbook 850 G1, either on google search or on github specific to hackintosh HP elitbook 850 G1, therefore I want to create a repository of my experience of hackintosh in HP elitebook 850 g1 for 2 years. from me wearing highsierra,mojave to catalina for now, will probably try BigSur if there is already a stable version. hopefully it can help. 🤖
 
 This is a detailed macOS Catalina 10.15.6 Vanilla install guide for HP Elitebook 850 G1 , based on [RehabMan's HP guide](https://www.tonymacx86.com/threads/guide-hp-probook-elitebook-zbook-using-clover-uefi-hotpatch.261719/). [This guide](https://hackintosh.gitbook.io/-r-hackintosh-vanilla-desktop-guide/) is also really useful.
 
@@ -63,49 +99,17 @@ Go to Advanced
 
 ## My hackintosh Catalina 10.15.6 on HP Elitebook 850 G1
 
-<img src="/images/furqonicmac.png" width=600>
-
-<img src="/images/Networks.png" width=600>
 
 <img src="/images/PCI.png" width=600>
-
-<img src="/images/grfix.png" width=600>
-
-<img src="/images/webcam.png" width=600>
-
-<img src="/images/Ethernet.png" width=600>
-
-<img src="/images/changewifissid.png" width=600>
-
-<img src="/images/bluetooth.png" width=600>
-
-
 
 
 ## Sources
 
-- **4** [zxystd OpenIntelWireless](https://github.com/OpenIntelWireless/).
-- **4** [RehabMan for hotpatch and more](https://github.com/RehabMan/HP-ProBook-4x30s-DSDT-Patch/).
-- **4** [AcidanThera for lilu WhateverGreen](https://github.com/acidanthera/).
-- **4** [CloverHackyColor for Clover BootLoader](https://github.com/CloverHackyColor/CloverBootloader/releases/).
-
-## 🤜🏻🤛🏻 For Support
-
-You can support me and [buy me a coffee][8], if you want. 🙏🏻
-
-[![ME Furqonic](https://img.shields.io/badge/SUPPORT-ME-succsess.svg?style=flat)](Support)
-<br>
-[![Paypal Furqonic](https://img.shields.io/badge/$-Paypal-informasional.svg?style=flat)](https://paypal.me/caturmahdialfurqon)
-<br>
-[![BSC Furqonic](https://img.shields.io/badge/ETH-0x07Fe74030B01B1F9A9c2699929d7CAFDa66Ebf06-informational.svg?style=flat)](https://etherscan.io/address/0x07Fe74030B01B1F9A9c2699929d7CAFDa66Ebf06)
-<br>
-[![BTC Furqonic](https://img.shields.io/badge/BTC-bc1qf8d3fcl4zf08qy3ecz8jyw3cf8y8urd0s2g32s-informational.svg?style=flat)](https://pastebin.com/raw/Z57X2iwX)
-<br>
-[![DOGE Furqonic](https://img.shields.io/badge/SOL-73hvmQLGmfxXiJqvqiG2MwZReC9H3tFusZJGfffrBHpy-informational.svg?style=flat)](https://pastebin.com/raw/Z57X2iwX)
-<br>
-[![LTC Furqonic](https://img.shields.io/badge/MATIC-0x07Fe74030B01B1F9A9c2699929d7CAFDa66Ebf06-informational.svg?style=flat)](https://pastebin.com/raw/Z57X2iwX)
-
-<br>
+- **1** [zxystd OpenIntelWireless](https://github.com/OpenIntelWireless/).
+- **2** [RehabMan for hotpatch and more](https://github.com/RehabMan/HP-ProBook-4x30s-DSDT-Patch/).
+- **3** [AcidanThera for lilu WhateverGreen](https://github.com/acidanthera/).
+- **5** [CloverHackyColor for Clover BootLoader](https://github.com/CloverHackyColor/CloverBootloader/releases/).
+- **6** [AcidanThera for OpenCore](https://github.com/acidanthera/OpenCorePkg)
 
 
 
