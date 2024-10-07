@@ -10,12 +10,12 @@ This laptop has been in the warehouse for a long time,`since 2021` 😁, I tried
 
 ## I have tested the following features for Monterey With `OC 1.0.1 EFI R001`
 
-`Monterey 12.7.4` upgrade applied without any issues. This hack is working perfectly. <br>
+`Monterey 12.7.6` upgrade applied without any issues. This hack is working perfectly. <br>
 With SMBIOS `MacBookPro11,4`
 
 ## About This Hack
 
-<img src="/images/Screen Shot 2024-10-07 at 05.18.13.png" width=600>
+<img src="/images/Screen Shot 2024-10-07 at 08.37.53.png" width=600>
 
 ## Bluetooth, WIFI And AIRDROP
 
