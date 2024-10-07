@@ -14,9 +14,11 @@ This laptop has been in the warehouse for a long time,`since 2021` 😁, I tried
 With SMBIOS `MacBookPro11,4`
 
 ## About This Hack
+
 <img src="/images/Screen Shot 2024-10-07 at 05.18.13.png" width=600>
 
 ## Bluetooth, WIFI And AIRDROP
+
 - Both BlueTooth, WIFI Combo Works with AirportItlwm.kext v.2.3.0 <br>
   - (BlueTooth Modified as Third Party Dongle)
 - Airdrop(Airport) Work
@@ -32,7 +34,7 @@ The performance of this Hackbook is still reliable
 
 <br>
 
-## OLD POST ABOUT Hackintosh With Catalina on 2024 
+## OLD POST ABOUT Hackintosh With Catalina on 2020 
 
 🤖 I don't think there's even much to post about hackintosh on HP elitbook 850 G1, either on google search or on github specific to hackintosh HP elitbook 850 G1, therefore I want to create a repository of my experience of hackintosh in HP elitebook 850 g1 for 2 years. from me wearing highsierra,mojave to catalina for now, will probably try BigSur if there is already a stable version. hopefully it can help. 🤖
 
@@ -105,10 +107,10 @@ Go to Advanced
 
 ## Sources
 
-- **1** [zxystd OpenIntelWireless](https://github.com/OpenIntelWireless/).
-- **2** [RehabMan for hotpatch and more](https://github.com/RehabMan/HP-ProBook-4x30s-DSDT-Patch/).
-- **3** [AcidanThera for lilu WhateverGreen](https://github.com/acidanthera/).
-- **5** [CloverHackyColor for Clover BootLoader](https://github.com/CloverHackyColor/CloverBootloader/releases/).
+- **1** [zxystd OpenIntelWireless](https://github.com/OpenIntelWireless/)
+- **2** [RehabMan for hotpatch and more](https://github.com/RehabMan/HP-ProBook-4x30s-DSDT-Patch/)
+- **3** [AcidanThera for lilu WhateverGreen](https://github.com/acidanthera/)
+- **5** [CloverHackyColor for Clover BootLoader](https://github.com/CloverHackyColor/CloverBootloader/releases/)
 - **6** [AcidanThera for OpenCore](https://github.com/acidanthera/OpenCorePkg)
 
 
